@@ -7,7 +7,7 @@
 ## 📖 Reference Book
 
 <p align="center">
-  <img src="원자력공학개론/images/Introduction_to_Nuclear_Engineering.jpg" width="600"/>
+  <img src="원자력공학개론/images/Introduction_to_Nuclear_Engineering.jpg" width="1000"/>
 </p>
 
 ---

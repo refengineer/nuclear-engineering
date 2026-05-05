@@ -4,6 +4,14 @@
 
 ---
 
+## 📖 Reference Book
+
+<p align="center">
+  <img src="images/Introduction_to_Nuclear_Engineering.jpg" width="300"/>
+</p>
+
+---
+
 ## 📚 Contents
 
 - **Ch.1** Introduction to Nuclear Engineering  
